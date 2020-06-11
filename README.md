@@ -1,3 +1,5 @@
+# Das hier ist eine experimentelle Version, insbesondere möchte ich den SR aktuell halten
+
 # Kodinerds IPTV
 ## Einleitung
 Kodinerds IPTV ist eine Sammlung von frei empfangbaren Streams für TV- und Radiosendern.
