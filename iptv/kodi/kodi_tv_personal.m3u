@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8 # Sollte funktionieren
+#https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8 # Alter Link, funktioniert nicht mehr
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR Fernsehen HD
 # http://live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-p.m3u8?sd=10&rebase=on # Keine Info, ob der funktioniert
 http://livestream.sr-online.de/live.m3u8 # SD, FUNKTIONIERT!
